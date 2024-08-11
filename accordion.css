@@ -1,0 +1,23 @@
+.accordion{
+    width: 500px;
+    margin: 0 auto;
+}
+.accordion-trigger{
+    margin: 0;
+    padding: 15px;
+    display: block;
+    background: #333;
+    color: #fff;
+    border-top: 1px solid #fff;
+}
+
+.accordion-contents{
+    margin: 0;
+    padding: 15px;
+    border: 1px solid #ccc;
+    display: none;
+}
+
+.space{
+    margin: 5%;
+}
