@@ -4,4 +4,4 @@
  - Q1をクリックすると、下にブロックでA1が表示される
 
 ## 参考動画・記事
-<iframe width="560" height="315" src="https://youtu.be/t7hLDtK8MO4?si=5Gar-LyQfhujtKfR" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t7hLDtK8MO4?si=6YMhHtWm6gblGEUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
